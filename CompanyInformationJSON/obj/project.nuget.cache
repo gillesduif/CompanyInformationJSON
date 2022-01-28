@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2LMk5V9Z/jX1P5j46puR3J9wYBp7e2muodJhKpZ3bwAkNgMZ8VmE4COFwEzj6Q8SmS5kVkww0eqJ2nllCpTiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gilles D'huyvetter\\source\\repos\\CompanyInformationJSON\\CompanyInformationJSON\\CompanyInformationJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gilles D'huyvetter\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Gilles D'huyvetter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

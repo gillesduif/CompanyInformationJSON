@@ -1,0 +1,16 @@
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.exe
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.deps.json
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.runtimeconfig.json
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.runtimeconfig.dev.json
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.dll
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\CompanyInformationJSON.pdb
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.csproj.AssemblyReference.cache
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.AssemblyInfoInputs.cache
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.AssemblyInfo.cs
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.csproj.CoreCompileInputs.cache
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.dll
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.pdb
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.genruntimeconfig.cache
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.csproj.CopyComplete
+C:\Users\Gilles D'huyvetter\source\repos\CompanyInformationJSON\CompanyInformationJSON\obj\Debug\netcoreapp3.1\CompanyInformationJSON.GeneratedMSBuildEditorConfig.editorconfig
